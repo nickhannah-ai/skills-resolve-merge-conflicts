@@ -1,3 +1,2 @@
-# References
+This is the example
 
-* octocat 1 😈
